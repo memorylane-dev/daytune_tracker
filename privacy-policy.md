@@ -1,20 +1,20 @@
 # Daytune Privacy Policy
 
-Effective date: 2025-11-30
+Effective date: 2025-12-11
 
 This Privacy Policy explains how Daytune (“the App”, “we”, “us”) handles your information.
 Daytune is designed to be private by default and offline‑first.
 
 ## Summary
-- We do not collect, sell, or share your personal data.
-- Your data is stored locally on your device and never leaves it unless you choose to export or back it up using your device’s own mechanisms.
+- We do not sell or share your personal data with third parties for their own marketing.
+- Your planning and reading data is stored locally on your device and never leaves it unless you choose to export or back it up using your device’s own mechanisms.
 - No account is required to use the App.
+- We use Google AdMob to show in‑app advertisements; Google may collect certain device and advertising identifiers to serve and measure ads.
 
 ## Data We Do Not Collect
 - No name, email, or contact details
-- No advertising identifiers or device identifiers for tracking
-- No precise location
-- No analytics or usage telemetry sent to our servers (we do not operate app-side servers for this app at this time)
+- No precise GPS location
+- No analytics or usage telemetry sent to our own servers (we do not operate app-side servers for this app at this time)
 
 ## Data Stored on Your Device
 Daytune stores your planning data (e.g., time blocks, categories, progress settings, preferences like custom day rollover) locally on your device’s storage. This data is accessible only to the App and the operating system.
@@ -31,7 +31,11 @@ We may introduce an optional, opt‑in sync feature in a future update. If we do
 We do not request access to contacts, photos, precise location, microphone, or camera.
 
 ## Third‑Party Services and SDKs
-We do not integrate third‑party analytics or advertising SDKs. If this changes in the future, we will update this policy and provide clear opt‑in controls where applicable.
+We use Google AdMob to display in‑app advertisements. AdMob is provided by Google and may collect information such as your device identifiers (including the advertising ID on Android and the advertising identifier on iOS), approximate location, and information about your interactions with ads in order to serve, measure, and improve advertisements.
+
+We do not have access to or control over the specific identifiers and signals that Google processes for advertising. Google’s use of this data is governed by Google’s own privacy policies and terms.
+
+We do not integrate separate third‑party analytics SDKs at this time. If this changes in the future, we will update this policy and provide clear information about what is collected and how you can control it.
 
 ## Children’s Privacy
 Daytune is a general‑audience application and is not directed to children. If you believe a child has provided us with any personal information, please contact us and we will take appropriate action. As of now, we do not collect any personal data.
